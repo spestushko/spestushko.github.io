@@ -1,13 +1,16 @@
 title: Sergei Pestushko # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Software Developer 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sergei-pestushko-a95680107/">View My LinkedIn Profile</a> 
+  Passionate and ethusiastic about software engineering and system design with 
+  a keen interest in the field of Artifical Intelligence, specializing in 
+  Machine Learning and Deep Learning. 
+  Implementing ideas into real life applications. 
   <br><br>
   <a href="https://gitlab.com/spestushko">View My GitLab Profile</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/sergei-pestushko-a95680107/">View My LinkedIn Profile</a> 
 
   
 theme: jekyll-theme-minimal
