@@ -54,10 +54,24 @@ Tech stack:
 
 ### Data Science
 
-[Bigmart sales](https://gitlab.com/spestushko/data-science-pg/blob/master/bigmart_sales/solution.ipynb)
-<img src="images/bigmart.png?raw=true"/>
-Predicting sales of a bigmart store chain. Tasks performed: data cleaning, data visualization and analysis, feature extraction, 
-model selection, training, validating and evaluating compiled model on a test dataset.
+[Wine quality](https://gitlab.com/spestushko/data-science-pg/blob/master/wine-quality/wine_quality.ipynb)
+<img src="images/winequality.png?raw=true"/>
+Analyzed different properties of wine and built a visualization of how properties of wine correlate with 
+the percieved wine ranking.
+
+TL;DR
+Wines with volatile acidity between 0.1-0.5 and alcohol content 10-15% generally had the highest scores.
+
+Tech stack:
+- python 
+- jupyter notebook
+
+---
+
+[Time series analysis](https://gitlab.com/spestushko/data-science-pg/blob/master/time-series/time_series.ipynb)
+<img src="images/timeseries.png?raw=true"/>
+Built SARIMAX model to predict a number of transit passengers over a course of several months for a fake
+unicorn startup building a new transit system.
 
 Tech stack:
 - python 
@@ -69,6 +83,17 @@ Tech stack:
 <img src="images/boston.png?raw=true"/>
 Predicting median value of a house. Built a model by first evaluating dataset, cleaning data, visualizing data, 
 analyzing feature correlation then finally compiling a model.
+
+Tech stack:
+- python 
+- jupyter notebook
+
+---
+
+[Bigmart sales](https://gitlab.com/spestushko/data-science-pg/blob/master/bigmart_sales/solution.ipynb)
+<img src="images/bigmart.png?raw=true"/>
+Predicting sales of a bigmart store chain. Tasks performed: data cleaning, data visualization and analysis, feature extraction, 
+model selection, training, validating and evaluating compiled model on a test dataset.
 
 Tech stack:
 - python 
@@ -98,35 +123,6 @@ Tech stack:
 
 ---
 
-[Time series analysis](https://gitlab.com/spestushko/data-science-pg/blob/master/time-series/time_series.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Built SARIMAX model to predict a number of transit passengers over a course of several months for a fake
-unicorn startup. 
-
-Tech stack:
-- python 
-- jupyter notebook
-
----
-
-[Wine quality]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-Tech stack:
-- python 
-- jupyter notebook
-
-ADD here...
-
----
-
-### Academic projects 
-
-[Awesome Algorithms](https://gitlab.com/spestushko/awesome_algorithms)
-<img src="images/clrs.jpeg?raw=true"/>
-Collection of algorithms and data structures implemented in Java, topics are following CLRS.
-
----
 
 ### Cryptocurrencies and blockchain 
 
@@ -181,7 +177,15 @@ Tech stack:
 - React
 - Solidity
 
-### Web development
+--- 
+
+### Academic projects 
+
+[Awesome Algorithms](https://gitlab.com/spestushko/awesome_algorithms)
+<img src="images/clrs.jpeg?raw=true"/>
+Collection of algorithms and data structures implemented in Java, topics are following CLRS.
+
+---
 
 [ReBook](https://github.com/NikitaKoren/ReBook)
 <img src="images/rebook.png?raw=true"/>
@@ -199,4 +203,3 @@ Tech stack:
 Demo: https://rebookdev.herokuapp.com/
 
 ---
-
