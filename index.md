@@ -28,24 +28,22 @@ Tech stack:
 
 ---
 
-[Neural Network for Digit Recognition]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Trained CNN to recognize hand written digits from 0 to 9
+[Neural Network for handwritten digits recognition](https://gitlab.com/spestushko/digit_identifier)
+<img src="images/mnist.png?raw=true"/>
+Trained CNN to recognize hand written digits from 0 to 9 using MNIST dataset. 
 
 Tech stack:
 - python
 - keras 
 
-ADD HERE...
-
 ---
 
 [player count ps4](https://gitlab.com/spestushko/player_count_ps4)
 <img src="images/ps4_players.png?raw=true"/>
-At some point I was torn between buying BO4 or not. I started Googling if I can check 
-how popular the game is, maybe I can find a player count. That's when I first heard of a leak 
+At some point I was torn between buying COD BO4 or not. I started Googling if I can check 
+how popular the game is, maybe I could find a player count. That's when I first heard of a leak 
 by some website that posted images of achievements received by players on PS4. Thousands on images
-were leaked. Instead of going throudh each of them, I decided to OCR data and find stats for BO4.
+were leaked. Instead of going through each of them, I decided to OCR data and find stats for BO4.
 
 Tech stack:
 - python
@@ -56,58 +54,58 @@ Tech stack:
 
 ### Data Science
 
-[Bigmart sales]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bigmart sales](https://gitlab.com/spestushko/data-science-pg/blob/master/bigmart_sales/solution.ipynb)
+<img src="images/bigmart.png?raw=true"/>
+Predicting sales of a bigmart store chain. Tasks performed: data cleaning, data visualization and analysis, feature extraction, 
+model selection, training, validating and evaluating compiled model on a test dataset.
 
 Tech stack:
 - python 
 - jupyter notebook
-
-ADD here...
 
 ---
 
-[Boston housing]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Boston housing](https://gitlab.com/spestushko/data-science-pg/blob/master/boston-housing/boston-housing-data.ipynb)
+<img src="images/boston.png?raw=true"/>
+Predicting median value of a house. Built a model by first evaluating dataset, cleaning data, visualizing data, 
+analyzing feature correlation then finally compiling a model.
 
 Tech stack:
 - python 
 - jupyter notebook
-
-ADD here...
 
 ---
 
-[Loan predictor]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Loan predictor](https://gitlab.com/spestushko/data-science-pg/blob/master/loan_predictor/loan_predictor.ipynb)
+<img src="images/loan.png?raw=true"/>
+Built a model predicting whether a loan will be approved or not based on applicants data provided.
+Completed usual steps when analyzing dataset, analyzed bias points towards ethnicity, sex. Achieved 
+80% accuracy on test dataset.
 
 Tech stack:
 - python 
 - jupyter notebook
-
-ADD here...
 
 ---
 
-[NY Taxi]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NY Taxi](https://gitlab.com/spestushko/data-science-pg/blob/master/ny_taxi.ipynb)
+<img src="images/nytaxi.png?raw=true"/>
+Analyzed correlation between weather forecast and number of daily taxi rides in NYC.
 
 Tech stack:
 - python 
 - jupyter notebook
-
-ADD here...
 
 ---
 
-[Time series analysis]()
+[Time series analysis](https://gitlab.com/spestushko/data-science-pg/blob/master/time-series/time_series.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Built SARIMAX model to predict a number of transit passengers over a course of several months for a fake
+unicorn startup. 
 
 Tech stack:
 - python 
 - jupyter notebook
-
-ADD here...
 
 ---
 
