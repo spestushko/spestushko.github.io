@@ -7,18 +7,15 @@
 
 [futureofcars](https://gitlab.com/futureofcars)
 <img src="images/futureofcars.png?raw=true"/>
-Have you ever wanted to build a robot? I have!
-I ordered a RC car from Amazon, took it apart, put together a simple circuit with rPi and breadboard
-to power DC motors, soldered it with those motors. Then I made the car to be drivable 
-from a simple web client. The camera was later added streaming video feed from the car
-to the web client(aka mission control). Then ultrasonic sensor had been added to the circuit 
-streaming distance to the nearest obstacle in the way. 
+With RC car from Amazon, I put together a simple circuit on a breadboard to connect Raspberry Pi and car’s DC motors. 
+Then I made the car to be drivable from a simple web client. The camera was later added to stream video feed from the
+car to the web client. Then ultrasonic sensor had been added to the circuit streaming distance to the nearest 
+obstacle in the way. 
 
-And at that point I didn't feel like driving it anymore, I thought it should be driving itself!
-Video streamed to the web client is analyzed by a lane detection algorithm, data is then 
-saved into a dataset which is analyzed by a separate process and is picked up by a CNN for training. 
-
-Lightning can drive itself! Barely, but...hey, it's still learning!
+And at that point I didn’t feel like driving it anymore, I thought the car should be driving itself! 
+Several additions had to be made to support video stream analysis by a simple lane detection algorithm I wrote, 
+with analyzed images then saved into a dataset. Built dataset is used in the CNN training process running in a separate 
+process, resulting in a CNN model able to predict car’s next action based on the video feed.
 
 Tech stack:
 - python
