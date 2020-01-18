@@ -189,6 +189,7 @@ Demo: https://rebookdev.herokuapp.com/
 
 ### [Awesome Algorithms](https://gitlab.com/spestushko/awesome_algorithms)
 <img src="images/clrs.jpeg?raw=true"/>
+
 Proper engineering practices and algorithms knowledge are of vital importance to know in my opinion. 
 Therefore I decided to go through [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms). 
 Implementing algorithms and data structures discussed in the book.
