@@ -2,7 +2,7 @@
 [Gitlab](https://gitlab.com/spestushko)
 <img src="images/gitlab.png?raw=true"/>
 
-### [futureofcars] (https://gitlab.com/futureofcars)
+### [futureofcars](https://gitlab.com/futureofcars)
 <img src="images/futureofcars.png?raw=true"/>
 With RC car from Amazon, I put together a simple circuit on a breadboard to connect Raspberry Pi and car’s DC motors. 
 Then I made the car to be drivable from a simple web client. The camera was later added to stream video feed from the
@@ -56,7 +56,7 @@ NOTE: Repository is private due to sensitive information it contains.
 
 ### [SmartAds](https://github.com/NikitaKoren/ethWaterloo)
 <img src="images/ethwaterloo.png?raw=true"/>
-At ETHWaterloo [my team and I built a project in 36 hours decentralizing online marketing.] https://twitter.com/stephantual/status/919573072604270592?s=21 
+At ETHWaterloo [my team and I built a project in 36 hours decentralizing online marketing.](https://twitter.com/stephantual/status/919573072604270592?s=21)
 Our vision was to build a completely decentralized service to improve transparency and combat 
 fraud among advertisers, publishers and everyday Internet users in digital marketing industry 
 through fair distribution of royalties using blockchain and smart contracts as an independent authority.
@@ -175,7 +175,7 @@ Tech stack:
 Books in college can be pretty expensive. Buying used books from other students is great 
 if you can find someone selling the book you are looking for. Scrolling a facebook feed 
 looking for your book is tedious. Posting a note on a physical bulletin board is outdated. 
-We built a (service)[https://rebookdev.herokuapp.com/] that allowed students to find the 
+We built a [service](https://rebookdev.herokuapp.com/) that allowed students to find the 
 book they need and easily connect with people selling the books they need.
 
 Tech stack:
@@ -190,7 +190,7 @@ Demo: https://rebookdev.herokuapp.com/
 ### [Awesome Algorithms](https://gitlab.com/spestushko/awesome_algorithms)
 <img src="images/clrs.jpeg?raw=true"/>
 Proper engineering practices and algorithms knowledge are of vital importance to know in my opinion. 
-Therefore I decided to go through (CLRS)[https://en.wikipedia.org/wiki/Introduction_to_Algorithms]. 
+Therefore I decided to go through [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms). 
 Implementing algorithms and data structures discussed in the book.
 
 ---
