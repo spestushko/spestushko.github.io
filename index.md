@@ -183,8 +183,6 @@ Tech stack:
 - MongoDb
 - AWS
 
-Demo: https://rebookdev.herokuapp.com/
-
 ---
 
 ### [Awesome Algorithms](https://gitlab.com/spestushko/awesome_algorithms)
