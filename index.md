@@ -56,7 +56,7 @@ NOTE: Repository is private due to sensitive information it contains.
 
 ### [SmartAds](https://github.com/NikitaKoren/ethWaterloo)
 <img src="images/ethwaterloo.png?raw=true"/>
-At ETHWaterloo [my team and I built a project in 36 hours decentralizing online marketing.](https://twitter.com/stephantual/status/919573072604270592?s=21)
+At ETHWaterloo [my team and I(1st guy on the left) built a project in 36 hours decentralizing online marketing.](https://twitter.com/stephantual/status/919573072604270592?s=21)
 Our vision was to build a completely decentralized service to improve transparency and combat 
 fraud among advertisers, publishers and everyday Internet users in digital marketing industry 
 through fair distribution of royalties using blockchain and smart contracts as an independent authority.
@@ -192,4 +192,20 @@ Proper engineering practices and algorithms knowledge are of vital importance to
 Therefore I decided to go through [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms). 
 Implementing algorithms and data structures discussed in the book.
 
+Tech stack: 
+- Java 12
+
 ---
+
+### DementiaHack: IdeaRising
+Defined project scope, business constrains and budget considerations 
+with a Senior Policy Analyst in the Public Health Agency of Canada 
+as well as with a mentor from Seneca College.
+In a team of 4 implemented platform prototype in 36 hours for a crowd-funding platform aimed to help people suffering from dementia. 
+Publicly presented project prototype to judges consisting of potential investors and facebook engineers.
+
+Tech stack: 
+- AngularJS
+- Express
+- Node
+- mongoDB
