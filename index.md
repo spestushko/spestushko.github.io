@@ -11,7 +11,7 @@ obstacle in the way.
 
 And at that point I didn’t feel like driving it anymore, I thought the car should be driving itself! 
 Several additions had to be made to support video stream analysis by a simple lane detection algorithm I wrote, 
-with analyzed images then saved into a dataset. Built dataset is used in the CNN training process running in a separate 
+with analyzed images then saved into a dataset. Built dataset is used in the CNN model training running in a separate 
 process, resulting in a CNN model able to predict car’s next action based on the video feed.
 
 Tech stack:
@@ -174,7 +174,7 @@ Tech stack:
 <img src="images/rebook.png?raw=true"/>
 Books in college can be pretty expensive. Buying used books from other students is great 
 if you can find someone selling the book you are looking for. Scrolling a facebook feed 
-looking for your book is tedious. Posting a note on a physical bulletin board is outdated. 
+looking for your book is tedious. Posting a note on a physical bulletin board at school is outdated. 
 We built a [service](https://rebookdev.herokuapp.com/) that allowed students to find the 
 book they need and easily connect with people selling the books they need.
 
