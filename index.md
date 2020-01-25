@@ -6,8 +6,8 @@
 <img src="images/futureofcars.png?raw=true"/>
 With RC car from Amazon, I put together a simple circuit on a breadboard to connect Raspberry Pi and car’s DC motors. 
 After that, I made the car to be drivable from a simple web client, with camera and ultrasonic sensor streaming data.
-Next iteration for the project was to make the car drive itself. I wrote a simple lane detection algorithm, then put 
-a simple deep learning model in place that was learning from the camera feed.
+Next iteration for the project was to make the car drive itself. I wrote a lane detection algorithm, then put 
+a Convolutional Neural Network in place that was learning from the camera feed.
 
 Tech stack:
 - python
@@ -55,7 +55,7 @@ NOTE: Repository is kept private for security reasons
 <img src="images/ethwaterloo.png?raw=true"/>
 At ETHWaterloo our team built a [project decentralizing online marketing](https://twitter.com/stephantual/status/919573072604270592?s=21).
 Our vision was to build a decentralized digital marketing service to improve transparency and combat 
-fraud among: advertisers, publishers and everyday Internet users. In SmartAds, blockchain serves an an independent 
+fraud among advertisers, publishers and everyday Internet users. In SmartAds, blockchain serves an an independent 
 authority allowing for fair distribution of marketing royalties.
 I carried out implementation of smart contracts powering system's backbone.
 
@@ -111,8 +111,8 @@ Tech stack:
 
 ### [Wine quality](https://gitlab.com/spestushko/data-science-pg/blob/master/wine-quality/wine_quality.ipynb)
 <img src="images/winequality.png?raw=true"/>
-Analyzed wine properties and built a visualization of how properties of wine correlate with wine's ranking. 
-Wines with volatile acidity between 0.1-0.5 and alcohol content 10-15% generally 
+Analyzed wine properties and built a visualization of how they correlate with wine's ranking. 
+Wines with volatile acidity between 0.1-0.5 and alcohol content 10-15%, generally, 
 had the highest ranking scores.
 
 Tech stack:
@@ -123,8 +123,8 @@ Tech stack:
 
 ### [Boston housing](https://gitlab.com/spestushko/data-science-pg/blob/master/boston-housing/boston-housing-data.ipynb)
 <img src="images/boston.png?raw=true"/>
-Built a model to predict mean value of a house in Boston, by evaluating dataset, cleaning data, visualizing data, 
-analyzing feature correlation then finally compiling a model. Analyzed ethnicity bias towards house value and location. 
+Built a model to predict mean value of a house in Boston by evaluating dataset, cleaning data, visualizing data, 
+analyzing feature correlation and, finally, compiling a model. Analyzed ethnicity bias towards house value and location. 
 
 Tech stack:
 - python 
@@ -134,7 +134,7 @@ Tech stack:
 
 ### [Loan predictor](https://gitlab.com/spestushko/data-science-pg/blob/master/loan_predictor/loan_predictor.ipynb)
 <img src="images/loan.png?raw=true"/>
-Built a model predicting whether a loan would be approved or not given applicant’s data. 
+Built a model predicting whether a loan would be approved depending on personal data.
 Analyzed bias points towards ethnicity and sex. Achieved 80% accuracy on test dataset.
 
 Tech stack:
@@ -146,7 +146,7 @@ Tech stack:
 ### [Bigmart sales](https://gitlab.com/spestushko/data-science-pg/blob/master/bigmart_sales/solution.ipynb)
 <img src="images/bigmart.png?raw=true"/>
 Predicted sales of a bigmart store chain. Tasks performed: data cleaning, data visualization and analysis, feature extraction, 
-model selection, training, validating and evaluating compiled model on a test dataset.
+model selection, training, validating, and evaluating compiled model on a test dataset.
 
 Tech stack:
 - python 
@@ -182,7 +182,9 @@ Tech stack:
 
 ### [Awesome Algorithms](https://gitlab.com/spestushko/awesome_algorithms)
 <img src="images/clrs.jpeg?raw=true"/>
-Collection of [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) data structures and algorithms implementations.
+
+Read the ["Introduction to algorithms"](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) and implemented 
+practice questions and problems thus covering majority of data structures and algorithms most commonly used in the industry.
 
 Tech stack: 
 - Java 12
