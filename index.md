@@ -2,6 +2,27 @@
 [Gitlab](https://gitlab.com/spestushko)
 <img src="images/gitlab2.png?raw=true"/>
 
+---
+
+### [recyclops](https://gitlab.com/spestushko/recyclops)
+<img src="images/recyclops.png?raw=true"/>
+Nowadays, there are many growing concerns of environmental pollution due to inadequate waste management systems.
+Ineffective recycling causes air pollution due to harmful toxins released when incinerating plastic. 
+Human and animal life is endangered by consistent release of non-degradable materials into rivers, ocean waters and landfills.
+Last but not least, many factories are still employing human workers to sort tons of garbage on a daily basis. This approach is
+harmful to workers and error prone.
+
+My vision is to shift focus towards starting recycling process as soon as waste is thrown into the bin.
+
+Tech stack:
+- python
+- colab research
+- tensorflow
+
+NOTE: Repository is kept private due to IP
+
+---
+
 ### [futureofcars](https://gitlab.com/futureofcars)
 <img src="images/futureofcars.png?raw=true"/>
 With RC car from Amazon, I put together a simple circuit on a breadboard to connect Raspberry Pi and car’s DC motors. 
@@ -63,6 +84,7 @@ Tech stack:
 - React
 - Solidity
 - Ethereum
+- Truffle
 
 --- 
 
