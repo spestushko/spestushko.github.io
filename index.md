@@ -9,17 +9,15 @@
 Nowadays, there are many growing concerns of environmental pollution due to inadequate waste management systems.
 Ineffective recycling causes air pollution due to harmful toxins released when incinerating plastic. 
 Human and animal life is endangered by consistent release of non-degradable materials into rivers, ocean waters and landfills.
-Last but not least, many factories are still employing human workers to sort tons of garbage on a daily basis. This approach is
-harmful to workers and error prone.
+Last but not least, many factories are still employing human workers to sort tons of garbage on a daily basis, which is 
+harmful to workers.
 
-My vision is to shift focus towards starting recycling process as soon as waste is thrown into the bin.
+My project is shifting focus towards starting recycling process as soon as waste is thrown into the bin.
 
 Tech stack:
 - python
 - colab research
 - tensorflow
-
-NOTE: Repository is kept private due to IP
 
 ---
 
