@@ -4,7 +4,7 @@
 
 ---
 
-### [recyclops](https://gitlab.com/spestushko/recyclops)
+### [recyclops](https://gitlab.com/recyclops)
 <img src="images/recyclops.png?raw=true"/>
 Nowadays, there are many growing concerns of environmental pollution due to inadequate waste management systems.
 Ineffective recycling causes air pollution due to harmful toxins released when incinerating plastic. 
