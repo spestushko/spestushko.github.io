@@ -12,12 +12,15 @@ Human and animal life is endangered by consistent release of non-degradable mate
 Last but not least, many factories are still employing human workers to sort tons of garbage on a daily basis, which is 
 harmful to workers.
 
-My project is shifting focus towards starting recycling process as soon as waste is thrown into the bin.
+My [app](https://159.89.126.2) is shifting focus towards starting recycling process as soon as waste is thrown into the bin.
 
 Tech stack:
 - python
 - colab research
 - tensorflow
+
+NOTE: Please open the [app](https://159.89.126.2) in Safari or IE. When prompted with warning that 
+website is not trusted (I am using self-signed certificate), click `Details` -> `View website`, once it loads, `allow camera access`.
 
 ---
 
