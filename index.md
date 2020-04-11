@@ -1,9 +1,3 @@
-## Activity
-[Gitlab](https://gitlab.com/spestushko)
-<img src="images/gitlab2.png?raw=true"/>
-
----
-
 ### [recyclops](https://gitlab.com/recyclops)
 <img src="images/recyclops.png?raw=true"/>
 Nowadays, there are many growing concerns of environmental pollution due to inadequate waste management systems.
