@@ -7,7 +7,8 @@ Last but not least, many factories are still employing human workers to sort ton
 harmful to workers.
 
 Tech stack:
-- python
+- python (flask)
+- react
 - colab research
 - tensorflow
 
