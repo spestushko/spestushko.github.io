@@ -1,4 +1,4 @@
-### [bill_split][https://gitlab.com/bill_split/bill_split-core]
+### [bill_split](https://gitlab.com/bill_split/bill_split-core)
 <img src="images/bill_split.png?raw=true"/>
 Web app to help split grocery bills. Take a picture of the reciept and the app will detect purchases and it's prices. 
 Select number of people splitting the bill (only works for 2 people at the moment), then the app will guide you through all the purchases. 
