@@ -1,3 +1,18 @@
+### [Elements of computing systems](https://gitlab.com/spestushko/elements_of_computing_systems)
+<img src="images/pong.png?raw=true"/>
+
+Implemented all projects defined within the [Elements of computing systems](https://www.amazon.ca/Elements-Computing-Systems-Building-Principles/dp/0262640686) 
+starting with using HDL to create hardware components of the computer, then an assembler parser, VM implementation, 
+Java like compiler followed by a simple operating system allowing a final test of this project a ping-pong game to run.
+
+Tech stack:
+- python 
+- Jack (self implemented Java like language)
+- Assembler
+- HDL
+
+---
+
 ### [bill_split](https://gitlab.com/bill_split/bill_split-core)
 <img src="images/bill_split.png?raw=true"/>
 
