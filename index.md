@@ -3,7 +3,8 @@
 
 Implemented all projects defined within the [Elements of computing systems](https://www.amazon.ca/Elements-Computing-Systems-Building-Principles/dp/0262640686) 
 starting with using HDL to create hardware components of the computer, then an assembler parser, VM implementation, 
-Java like compiler followed by a simple operating system allowing a final test of this project a ping-pong game to run.
+Java like compiler for Jack programming language, followed by a simple operating system written in Jack allowing a 
+final test of this project a ping-pong game to run.
 
 Tech stack:
 - python 
