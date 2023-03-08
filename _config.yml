@@ -2,6 +2,10 @@ name: Sergei Pestushko # your name (or website title) here
 description: I like to change things for the better
 avatar: "/images/logo.png?raw=true"
 
+collections:
+  - projects
+
+
 #
 # Flags below are optional
 #

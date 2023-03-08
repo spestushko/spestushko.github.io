@@ -1,12 +1,13 @@
 ---
-layout: page
-title: Projects
+layout: default
 permalink: /projects/
 ---
 
-<div class="posts">
+These are my projects
+
+<div class="projects">
   {% for project in site.projects %}
-    <article class="post">
+    <article class="project">
 
       <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
 
