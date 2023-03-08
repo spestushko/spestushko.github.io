@@ -3,7 +3,9 @@ description: I like to change things for the better
 avatar: "/images/logo.png?raw=true"
 
 collections:
-  - projects
+  projects:
+    output: true
+    permalink: /:collection/:title
 
 
 #
