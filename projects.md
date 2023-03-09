@@ -3,8 +3,6 @@ layout: default
 permalink: /projects/
 ---
 
-These are my projects
-
 <div class="projects">
   {% for project in site.projects %}
     <article class="project">
