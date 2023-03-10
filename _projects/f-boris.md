@@ -3,7 +3,7 @@ layout: project
 title: Arbitrage crypto screener
 ---
 
-Crypto screener bot called Boris
+Crypto screener bot called Boris.
 
 Arbitrage trading opoportunify finder for cryptocurrencies. Application sends notifications to Telegram/Slack when
 new trading opportunities are identified. Additionally, built a simple UI to display trading opportunities.
